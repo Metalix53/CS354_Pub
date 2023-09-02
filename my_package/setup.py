@@ -15,7 +15,7 @@ setup(
     zip_safe=True,
     maintainer='Max Mancini',
     maintainer_email='mman7840@gmail.com',
-    description='My Package',
+    description='My Package 2.0!',
     license='Apache License 2.0',
     tests_require=['pytest'],
     entry_points={
